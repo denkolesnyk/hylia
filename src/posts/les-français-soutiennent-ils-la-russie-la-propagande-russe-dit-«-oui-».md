@@ -2,6 +2,11 @@
 layout: layouts/post.njk
 title: Les Français soutiennent-ils la Russie ? La propagande russe dit « oui »
 metaTitle: Les Français soutiennent-ils la Russie ? La propagande russe dit « oui »
+metaDesc: Et même si nous avons une tendance à analyser les activités de
+  puissances étrangères dans notre espace informationnel, il serait, néanmoins,
+  important de s’intéresser à la façon dont les médias étatiques russes
+  façonnent l’opinion sur les événements internationaux d’une manière favorable
+  pour la Russie.
 socialImage: /images/rianovosti-les-francais.jpg
 date: 2021-05-25T22:04:02.575Z
 tags:
