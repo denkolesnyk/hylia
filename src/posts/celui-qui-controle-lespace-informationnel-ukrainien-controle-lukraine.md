@@ -1,12 +1,16 @@
 ---
-title: Celui qui contrôle l’espace informationnel ukrainien contrôle l’Ukraine
-date: 2019-07-03
-categories: ["sécurité informationnelle"]
-author: denys-kolesnyk
 draft: false
+author: denys-kolesnyk
+title: Celui qui contrôle l’espace informationnel ukrainien contrôle l’Ukraine
+metaTitle: Celui qui contrôle l’espace informationnel ukrainien contrôle l’Ukraine
+socialImage: ""
+date: 2019-07-03
+tags:
+  - Ukraine
+categories:
+  - sécurité informationnelle
 ---
-
-D’après la presse ukrainienne, Viktor Medvedtchouk, l’oligarque ukrainien et proche du président Vladimir Poutine (il n’est pas secret que Poutine est le parrain de sa fille) a récemment [acheté](https://www.unian.ua/politics/10601289-zmi-medvedchuk-pridbav-80-akciy-kanalu-inter.html) 80% des parts de l’une de plus grandes chaîne ukrainienne – Inter.
+Selon la presse ukrainienne, Viktor Medvedtchouk, l’oligarque ukrainien et proche du président Vladimir Poutine (il n’est pas secret que Poutine est le parrain de sa fille) a récemment [acheté](https://www.unian.ua/politics/10601289-zmi-medvedchuk-pridbav-80-akciy-kanalu-inter.html) 80% des parts de l’une de plus grandes chaîne ukrainienne – Inter.
 
 Il devient donc le patron de quatre chaînes ukrainiennes de niveau national. Il s’agit de 112 Ukraine, NewsOne, Zik et Inter, qu’il a consolidé dans ses mains de jure ou de facto dans le cadre du groupe média « Novyny ».
 
