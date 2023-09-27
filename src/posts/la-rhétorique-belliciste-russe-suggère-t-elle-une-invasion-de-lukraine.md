@@ -28,7 +28,7 @@ Mais pour y parvenir, Moscou doit persuader les pays occidentaux du caractère i
 
 Il est intéressant de noter que le 18 novembre, lors du collégium élargi du ministère des Affaires étrangères russe, Vladimir Poutine a [souligné](http://kremlin.ru/events/president/news/67123) le suivant : « *nos récents avertissements se font encore sentir et produisent un certain effet : une certaine tension est néanmoins apparue là-bas* », c’est-à-dire dans les pays de l’OTAN. Cette déclaration illustre également que Moscou a besoin de maintenir un niveau important de tensions, d’imprévisibilité et de semer la peur dans l’espace informationnel.
 
-## Le contrle réflexif russe
+## **Le contrôle réflexif russe**
 
 Après l’annexion de la Crimée par la Russie suivie d’une invasion de l’Ukraine dans le Donbass qui dure depuis 2014, la présence d’une partie importante des troupes russes près de la frontière ukrainienne est devenue une banalité pour Kiev. De plus, l’armée ukrainienne en est ressortie comme l’une des armées les plus fortes et les plus prêtes au combat sur le continent européen, rendant extrêmement difficile pour les Russes de mener des opérations rapides résultant en la capture relativement facile de terres.
 
