@@ -2,6 +2,9 @@
 layout: layouts/post.njk
 title: La Russie se dote d'une nouvelle Stratégie de sécurité nationale
 metaTitle: La Russie se dote d'une nouvelle Stratégie de sécurité nationale
+metaDesc: "Après environ un an et demi de travaux sur la nouvelle Stratégie de
+  sécurité nationale (SSN) de la Russie, le processus s’est enfin terminé le 2
+  juin dernier avec la publication du décret N°400. "
 date: 2021-07-16T21:52:15.309Z
 tags:
   - Russie
