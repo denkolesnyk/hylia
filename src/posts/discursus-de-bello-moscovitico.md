@@ -6,6 +6,7 @@ metaDesc: Cela dit, il serait important d’évoquer un ouvrage écrit en 1632 �
   Paris par Georgii (Yurii) Niemirycz, un noble Ruthène (Ukrainien). Son ouvrage
   s’appelle « Discursus de bello Moscovitico » et porte sur la guerre avec la
   Moscovie - le pays que l’on connait comme Russie aujourd’hui.
+socialImage: /images/niemirycz-discursus-de-bello-moscovitico.webp
 date: 2022-05-20T21:17:28.230Z
 tags:
   - histore
