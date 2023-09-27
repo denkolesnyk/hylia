@@ -2,6 +2,12 @@
 layout: layouts/post.njk
 title: L'Ukraine adopte sa Stratégie de sécurité militaire
 metaTitle: L'Ukraine adopte sa Stratégie de sécurité militaire
+metaDesc: Le président ukrainien Volodymyr Zelenskyy vient d’approuver la
+  Stratégie de sécurité militaire de l’Ukraine, qui envisage une aggression
+  armée russe à grande échelle. Pour la première fois dans le langage officiel
+  ukrainien, ce document introduit la notion de « défense complète » tout en
+  reconnaissant que le pays se trouve dans les conditions d’une « menace
+  militaire existentielle ».
 date: 2021-03-28T22:06:43.236Z
 tags:
   - Ukraine
