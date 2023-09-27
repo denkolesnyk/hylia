@@ -15,6 +15,8 @@ Intervention sur BFMTV (France) : [Émission 7 jours BFM du 20 mai 2023](https:
 
 Commentaire pour Le Parisien (France) : [« « Une guerre a été lancée contre notre patrie » : Poutine célèbre la victoire de 1945 et se paie à nouveau l’Occident »](https://www.leparisien.fr/international/guerre-en-ukraine-poutine-celebre-la-victoire-de-1945-et-se-paie-a-nouveau-loccident-09-05-2023-246NHMIGCFCTDAN2HV5UOZ3CVY.php) ou version papier du 10 mai 2023, p. 6
 
+Commentaire pour WP (Pologne) : « [Czy Macron wyrzuci Rosjan z igrzysk w Paryżu? Francuz nie zostawia wątpliwości](https://sportowefakty.wp.pl/igrzyska-olimpijskie/1058215/czy-macron-wyrzuci-rosjan-z-igrzysk-w-paryzu-francuz-nie-zostawia-watpliwosci) »
+
 Intervention sur France Info (France) : [Émission le monde de Loison du 15 février 2023](https://www.francetvinfo.fr/replay-jt/franceinfo/18h-loison/jt-le-monde-de-loison-mercredi-15-fevrier-2023_5660981.html)
 
 Article dans le magazine European Security & Defence (Allemagne) : [France Adopts New National Strategic Review](https://kolesnyk.fr/images/ESD_1_2023_Kolesnyk.pdf)
