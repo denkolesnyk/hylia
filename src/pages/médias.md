@@ -5,6 +5,10 @@ permalink: /medias/index.html
 metaTitle: Médias
 metaDesc: Denys Kolesnyk dans les médias
 ---
+Commentaire pour Le Parisien (France) : [Guerre en Ukraine : brouille avec la Pologne, présidentielle américaine… le soutien à Kiev est-il en train de se fissurer ?](https://www.leparisien.fr/international/guerre-en-ukraine-brouille-avec-la-pologne-presidentielle-americaine-le-soutien-a-kiev-est-il-en-train-de-se-fissurer-21-09-2023-J3TL5DGWE5DRBM5MWL4QTHLEGI.php)
+
+Commentaire pour Le Parisien (France) : [« Convoy », « Redut », « Patriot »… ces milices russes qui pourraient profiter du déclin de Wagner](https://www.leparisien.fr/international/convoy-redut-patriot-ces-milices-russes-qui-pourraient-profiter-du-declin-de-wagner-25-08-2023-DZGQFJA4RVBQTPQAW3TJQS3LAA.php)
+
 Intervention sur BFMTV (France) : [Émission 7 jours BFM du 20 mai 2023](https://www.bfmtv.com/replay-emissions/7-jours-bfm/bakhmout-aux-mains-des-russes-kiev-dement-20-05_VN-202305200402.html)
 
 Commentaire pour Le Parisien (France) : [« « Une guerre a été lancée contre notre patrie » : Poutine célèbre la victoire de 1945 et se paie à nouveau l’Occident »](https://www.leparisien.fr/international/guerre-en-ukraine-poutine-celebre-la-victoire-de-1945-et-se-paie-a-nouveau-loccident-09-05-2023-246NHMIGCFCTDAN2HV5UOZ3CVY.php) ou version papier du 10 mai 2023, p. 6
