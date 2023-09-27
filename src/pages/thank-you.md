@@ -1,6 +1,5 @@
 ---
-title: 'Thank you'
-permalink: '/thank-you/index.html'
+title: Merci !
+permalink: /thank-you/index.html
 ---
-
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+Merci d'avoir pris contact avec Monsieur Kolesnyk. Il vous répondra dès que possible.
