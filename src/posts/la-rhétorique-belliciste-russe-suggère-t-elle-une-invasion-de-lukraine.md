@@ -7,6 +7,9 @@ metaDesc: Les informations concernant l’amassement des troupes russes près de
   faire la une de divers médias occidentaux depuis quelque temps.
 socialImage: /images/bild-amassement-troupes-russes-ukraine.jpg
 date: 2022-01-04T22:36:18.528Z
+tags:
+  - Russie
+  - Ukraine
 ---
 ![](/images/bild-amassement-troupes-russes-ukraine.jpg)
 
