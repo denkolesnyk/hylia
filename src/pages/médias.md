@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Médias
-permalink: /médias/index.html
+permalink: /medias/index.html
 metaTitle: Médias
 metaDesc: Denys Kolesnyk dans les médias
 ---
