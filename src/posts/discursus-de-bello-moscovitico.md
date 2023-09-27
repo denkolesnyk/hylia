@@ -11,6 +11,8 @@ tags:
   - histore
   - Moscovie
 ---
+![](/images/niemirycz-discursus-de-bello-moscovitico.webp)
+
 Le 24 février 2022 la Russie a lancé une invasion à grande échelle contre l’Ukraine. Evénement perçu comme peu probable, au regard des nombreux facteurs, dont le nombre insuffisant de troupes russes préalablement amassées près de la frontière ukrainienne.
 
 À ce jour, les Russes ont connu quelques défaites, notamment ils n’ont pas réussi à capturer Kiev, à faire capituler l’Ukraine, ni même à prendre Kharkiv - ville située à peine 40 kilomètres de la frontière russe. L’armée russe s’est montrée significativement moins performante comparé aux estimations et, quasiment trois mois après le début de l’invasion russe, il est assez probable que l’Ukraine puisse libérer toutes les terres occupées par la Russie.
