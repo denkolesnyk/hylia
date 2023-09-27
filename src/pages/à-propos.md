@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: À propos
-permalink: ""
+permalink: /a-propos/index.html
 metaTitle: À propos
 socialImage: https://kolesnyk.fr/images/DK_pic.png
 ---
