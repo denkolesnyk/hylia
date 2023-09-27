@@ -17,6 +17,8 @@ Commentaire pour Le Parisien (France) : [« « Une guerre a été lancée contr
 
 Commentaire pour WP (Pologne) : « [Czy Macron wyrzuci Rosjan z igrzysk w Paryżu? Francuz nie zostawia wątpliwości](https://sportowefakty.wp.pl/igrzyska-olimpijskie/1058215/czy-macron-wyrzuci-rosjan-z-igrzysk-w-paryzu-francuz-nie-zostawia-watpliwosci) »
 
+Commentaire pour Le Parisien (France) : « [Tymofiï Chatoura, soldat fusillé de sang-froid érigé en martyr de la résistance ukrainienne](https://www.leparisien.fr/international/tymofii-chatoura-soldat-fusille-de-sang-froid-erige-en-martyr-de-la-resistance-ukrainienne-08-03-2023-LC34NKMMJBB7ZPAZDBAH7BQBVI.php) »
+
 Intervention sur France Info (France) : [Émission le monde de Loison du 15 février 2023](https://www.francetvinfo.fr/replay-jt/franceinfo/18h-loison/jt-le-monde-de-loison-mercredi-15-fevrier-2023_5660981.html)
 
 Article dans le magazine European Security & Defence (Allemagne) : [France Adopts New National Strategic Review](https://kolesnyk.fr/images/ESD_1_2023_Kolesnyk.pdf)
