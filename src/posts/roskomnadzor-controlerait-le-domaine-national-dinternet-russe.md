@@ -22,6 +22,8 @@ Elle prévoit la création d’un système national d’acheminement du trafic I
 
 Le texte de l’ordonnance contient trois clauses, dont la première nous annonce l’entrée du Roskomnadzor au sein des fondateurs du Centre, alors que les deux autres sont réservées à l’usage officiel et leur contenu n’est pas divulgué.
 
+![](/images/ordonnance-russe-roskomnadzor-ru-tld.png)
+
 Voici le texte de l’ordonnance ainsi que sa traduction en français :
 
 1. Établir que :
