@@ -7,7 +7,7 @@ metaDesc: Le 9 mars dernier, le premier ministre russe Mikhaïl Michoustine a
   supervision des communications, des technologies de l’information et des
   médias de masse) en tant que l’un des fondateurs du Centre de coordination
   pour le domaine national d’Internet (ci-après nommé Centre).
-date: 2023-09-28T11:37:33.199Z
+date: 2020-03-13T12:37:33.199Z
 tags:
   - Russie
 ---
