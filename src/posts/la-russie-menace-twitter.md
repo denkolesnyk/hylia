@@ -2,6 +2,11 @@
 layout: layouts/post.njk
 title: La Russie menace Twitter
 metaTitle: La Russie menace Twitter
+metaDesc: Le 10 mars dernier, le Service fédéral de supervision des
+  communications, des technologies de l'information et des médias de masse,
+  connu en version courte comme le Roskomnadzor, a déclaré dans un communiqué de
+  presse « avoir pris des mesures pour défendre les citoyens russes de
+  l’influence du contenu illégal ».
 date: 2021-03-23T10:36:35.418Z
 tags:
   - Russie
