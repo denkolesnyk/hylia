@@ -11,6 +11,7 @@ metaDesc: La guerre de l’information c’est une confrontation entre deux ou
   décision dans les intérêts de la partie adverse.
 date: 2019-03-29T11:21:24.192Z
 tags:
+  - infoguerre
   - Russie
 ---
 Tout au long de la guerre froide la dissuasion nucléaire est restée un élément clé assurant « la destruction mutuelle » entre les États-Unis et l’URSS, par conséquent rendant la première frappe impossible de la part de Washington et de Moscou. Même aujourd’hui une telle approche reste d’actualité et l’arme de dissuasion figure dans les documents stratégiques des puissances nucléaires.
