@@ -75,9 +75,7 @@ Même s’il considérait le contrôle réflexif dans le cadre militaire, nous p
 
 Sur les pages de ce blog nous avons déjà évoqué le colonel soviétique et russe Komov, mais il est encore une fois important de le faire.
 
-Dans ses écrits il divisait la [gue](/posts/le-colonel-komov-et-la-guerre-de-l-information.md)[rre de l’information](/posts/le-colonel-komov-et-la-guerre-de-l-information.md) en trois catégories, y compris la **catégorie intellectuelle**. Cette catégorie comprend, d’après lui, plusieurs éléments ou méthodes, notamment :
-
-
+Dans ses écrits il divisait la guerre de l’information en trois catégories, y compris la **catégorie intellectuelle**. Cette catégorie comprend, d’après lui, plusieurs éléments ou méthodes, notamment :
 
 1. distraction – la création d’une menace réelle ou fausse à l’endroit critique du déploiement des troupes de l’adversaire ; 
 2. surcharge – l’envoie d’une grande quantité d’informations contradictoires à l’ennemi ; 
