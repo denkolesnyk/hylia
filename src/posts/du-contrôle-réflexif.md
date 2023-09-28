@@ -9,6 +9,7 @@ socialImage: /images/vladimir-lefebvre.jpg
 date: 2019-11-26T16:11:32.255Z
 tags:
   - contrôle réflexif
+  - Russie
 ---
 Dans les démocraties, l’opinion publique se trouve au coeur du fonctionnement même de la société et est un facteur majeur d’influence de la prise de décision par les autorités.
 
