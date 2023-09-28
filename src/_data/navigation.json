@@ -10,6 +10,10 @@
       "url": "/a-propos"
     },
     {
+      "text": "Blog",
+      "url": "/archive"
+    },
+    {
       "text": "Médias",
       "url": "/medias"
     },
