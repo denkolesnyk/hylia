@@ -9,6 +9,7 @@ metaDesc: Les hackers du collectif 0v1ru$ ont piraté le serveur d’une entrepr
 date: 2019-07-21T10:11:42.017Z
 tags:
   - infoguerre
+  - FSB
 ---
 Les hackers du collectif 0v1ru$ ont piraté le serveur d’une entreprise russe SyTech qui travaillait, entre autre, avec l’unité militaire N° 71330 considérée par certaines sources comme une unité du 16ème Département du FSB, s’occupant du renseignement d’origine électromagnétique (ROEM). Les documents ont [révélé](https://www.bbc.com/russian/features-49050982) que la société russe effectuait un nombre de tâches pour cette agence de renseignement russe, héritière du KGB.
 
