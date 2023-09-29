@@ -6,7 +6,7 @@ metaDesc: "Le think-tank américain CSIS (Center for Strategic and International
   Studies) a récemment proposé une nouvelle définition pour les
   cyber-opérations. "
 socialImage: /images/cyber-operations-definition-csis.png
-date: 2023-09-29T21:15:24.587Z
+date: 2019-08-16T21:15:24.587Z
 tags:
   - cyber
 ---
