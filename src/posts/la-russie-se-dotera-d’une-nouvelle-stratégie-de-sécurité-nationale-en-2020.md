@@ -2,6 +2,10 @@
 layout: layouts/post.njk
 title: La Russie se dotera d’une nouvelle Stratégie de sécurité nationale en 2020
 metaTitle: La Russie se dotera d’une nouvelle Stratégie de sécurité nationale en 2020
+metaDesc: Le Conseil de sécurité de Russie a commencé l’élaboration d’une
+  nouvelle Stratégie de sécurité nationale. Elle devrait voir le jour en 2020,
+  vu que la version en vigueur nécessite des ajustements, étant donné qu’elle a
+  été signé par le président russe il y a cinq ans, le 31 décembre 2015.
 date: 2020-02-12T21:36:47.672Z
 tags:
   - Russie
