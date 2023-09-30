@@ -1,11 +1,11 @@
 ---
 layout: layouts/post.njk
-title: L’importance du « 9 mai » dans le récit historique russe
-metaTitle: L’importance du « 9 mai » dans le récit historique russe
+title: L’importance du 9 mai dans le récit historique russe
+metaTitle: L’importance du 9 mai dans le récit historique russe
 metaDesc: "La Russie s’apprête à donner un défilé pour marquer « la victoire de
   l’URSS dans la Grande guerre patriotique », qui est célébrée en Russie et dans
   ses anciens satellites le 9 mai. "
-socialImage: /images/troupes-des-ecoliers-9-mai-pyatigorsk.jpg
+socialImage: ""
 date: 2019-05-08T10:33:12.955Z
 tags:
   - propagande
