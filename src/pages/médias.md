@@ -5,6 +5,8 @@ permalink: /medias/index.html
 metaTitle: Médias
 metaDesc: Denys Kolesnyk dans les médias
 ---
+Commentaire pour Le Parisien (France) : [Guerre Israël-Hamas : quand Tel-Aviv reprend les codes de communication de l’armée ukrainienne](https://www.leparisien.fr/international/israel/guerre-israel-hamas-quand-tel-aviv-reprend-les-codes-de-la-communication-de-larmee-ukrainienne-25-10-2023-4MRSP7CSKRDEBO265OH6ILYGTI.php)
+
 Intervention sur TVP World (Pologne) : [Émission du 10 octobre 2023 portant sur la désinformation et l'ingérence électorale](https://www.youtube.com/watch?v=zJymO4b67Qc)
 
 Commentaire pour Le Parisien (France) : [Guerre en Ukraine : brouille avec la Pologne, présidentielle américaine… le soutien à Kiev est-il en train de se fissurer ?](https://www.leparisien.fr/international/guerre-en-ukraine-brouille-avec-la-pologne-presidentielle-americaine-le-soutien-a-kiev-est-il-en-train-de-se-fissurer-21-09-2023-J3TL5DGWE5DRBM5MWL4QTHLEGI.php)
